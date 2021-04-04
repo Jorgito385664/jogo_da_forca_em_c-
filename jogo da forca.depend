@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617428946 source:c:\users\usuario\desktop\c code blocks\jogo da forca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
